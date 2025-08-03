@@ -1,0 +1,5 @@
+projeto-gpt/
+│
+├── app.py           # código Streamlit principal
+├── requirements.txt # bibliotecas Python necessárias
+└── outros arquivos auxiliares...
